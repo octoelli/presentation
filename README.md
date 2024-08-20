@@ -2,7 +2,7 @@
  Inicio da mensagem bem vindo, com a frase estática
  -->
 
-<p align="center"><a href="https://github.com/octoelli/rodrigocoelli/">
+<p align="center"><a href="https://bio.link/coelli/">
     <h1 align="center">✩&emsp;The Official Rodrigo Luís Coelli&emsp;✩</h1>
 </p></a>
 
