@@ -10,8 +10,8 @@
 Inicio da mensagem bem vindo, com a frase animada.
 Fonte: https://readme-typing-svg.herokuapp.com
 -->
-<p align="center"><a href="https://github.com/octoelli/rodrigocoelli/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Rodrigo+Coelli;Welcome+to+my+profile!;Have+a+look+around!&font=sofia%20pro&%color=%fff&center=true&width=400&height=100">
+<p align="center"><a href="https://bio.link/coelli/">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Bem+vind@+ao+meu+Gitperfil!;Visite+minha+bio+clicando+aqui!&font=sofia%20pro&%color=%fff&center=true&width=400&height=100">
 </p></a>
 
 <!--
