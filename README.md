@@ -46,17 +46,34 @@ Fonte:  https://github.com/Jurredr/github-widgetbox
 
 <a href="https://bio.link/coelli/"><img src="https://github-widgetbox.vercel.app/api/profile?username=octoelli&amp;theme=darkmode&amp;data=followers,repositories,stars,commits" alt="rodrigocoelli Profile WidgetBox"></a></a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=octoelli&theme=dracula)](https://github.com/stars/octoelli/lists/future-ideas)
-
-
 <a href="https://www.github.com/octoelli"><img src="https://komarev.com/ghpvc/?username=octoelli&style=for-the-badge&color=161c1c&label=👁+PROFILE+VIEWS" alt="rodrigocoelli github profile views" /></a>
 <a href="https://www.linux.org"><img src="https://img.shields.io/badge/OS-Linux-e06c75?style=for-the-badge&logoColor=00c6ff&logo=linux&color=161c1c" /></a>
 <a href="https://archlinux.org"><img src="https://img.shields.io/badge/DISTRO-Arch-56b6c2?style=for-the-badge&logo=arch-linux&logoColor=00c6ff&color=161c1c" /></a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigocoelli/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rodrigo.coelli/)
 
- 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=octoelli&theme=chartreuse-dark&background=000&border=30A3DC&dates=FFF)](https://github.com/octoelli/)
+<p id="bio" class="description"><span style="color:#000000;">
+
+Rodrigo Luís Coelli, Nascido e criado no interior do Rio Grande do Sul. Entre Dramas, tramas, corpos e universos. Histórias me faziam sonhar e com elas acordava, vivendo-as, criando-as, amando-as. Estudante de Marketing durante a semana, desenvolvedor todo tempo e amante de filosofia nas horas mais temporais. Nas mais obscuras seres e homens integram terrores no papel. Nas horas mais Leves, Romances e Fantasias épicas nascem.
+</span></p>
+<p class="description"><span style="color:#000000;">
+
+Códigos a estudar, ideias para gerar, palavras no caderno e olhos na vida. Sempre com uma dose de Filosofia e política.
+</span></p>
+
+<p><img src="https://2.gravatar.com/userimage/253563359/4ec2ee0477e4d708bb8532beff9f3cae?size=300" /></p>
+
+<p class="description"><span style="color:#000000;">
+
+Apresento prazer, amo o conhecimento, vivo sobre o amor, construo histórias e compartilho existência para quem vive. Apresento prazer para quem lê, informação para quem procura, amor para quem senti a história e medo para quem vive.
+</span></p>
+<p class="description"><span style="color:#000000;">
+
+Vivo entre esportes, fórmulas, paixões e prazeres; vivo para escrever e desta arte faço parte, minha alma se alivia adjacente as frases.
+</span></p>
+<p>&nbsp;</p>
+
+
 
 
 
