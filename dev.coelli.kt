@@ -7,7 +7,7 @@ fun main() {
     val coelli = Person()                                     // 1
     val stringDescription = coelli.apply {                    // 2
         name = "Rodrigo"                                       // 3
-        age = 40
+        age = 45
         about = "Android developer"
     }.toString()                                            // 4
 
