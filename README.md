@@ -44,9 +44,9 @@ Fonte:  https://github.com/Jurredr/github-widgetbox
   <a href="https://bio.link/coelli/">
   <div  align="center"> 
 
-<a href="https://bio.link/coelli/"><img src="https://github-widgetbox.vercel.app/api/profile?username=rodrigo-coelli&amp;theme=darkmode&amp;data=followers,repositories,stars,commits" alt="rodrigocoelli Profile WidgetBox"></a></a>
+<a href="https://bio.link/coelli/"><img src="https://github-widgetbox.vercel.app/api/profile?username=octoelli&amp;theme=darkmode&amp;data=followers,repositories,stars,commits" alt="Rodrigo Luís Coelli Profile WidgetBox"></a></a>
 
-<a href="https://www.github.com/rodrigo-coelli"><img src="https://komarev.com/ghpvc/?username=rodrigo-coelli&style=for-the-badge&color=161c1c&label=👁+PROFILE+VIEWS" alt="rodrigocoelli github profile views" /></a>
+<a href="https://www.github.com/octoelli"><img src="https://komarev.com/ghpvc/?username=octoelli&style=for-the-badge&color=161c1c&label=👁+PROFILE+VIEWS" alt="Rodrigo Luís Coelli github profile views" /></a>
 <a href="https://www.linux.org"><img src="https://img.shields.io/badge/OS-Linux-e06c75?style=for-the-badge&logoColor=00c6ff&logo=linux&color=161c1c" /></a>
 <a href="https://archlinux.org"><img src="https://img.shields.io/badge/DISTRO-Arch-56b6c2?style=for-the-badge&logo=arch-linux&logoColor=00c6ff&color=161c1c" /></a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigocoelli/)
