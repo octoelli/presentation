@@ -44,7 +44,7 @@ Fonte:  https://github.com/Jurredr/github-widgetbox
   <a href="https://bio.link/coelli/">
   <div  align="center"> 
 
-<a href="https://bio.link/coelli/"><img src="https://github-widgetbox.vercel.app/api/profile?username=octoelli&amp;theme=darkmode&amp;data=followers,repositories,stars,commits" alt="Rodrigo Luís Coelli Profile WidgetBox"></a></a>
+<a href="https://bio.link/coelli/"><img src="https://github-widgetbox.vercel.app/api/profile?username=octoelli&amp;theme=darkmode&amp;data=followers,repositories,stars,commits" alt="octoelli Profile WidgetBox"></a></a>
 
 <a href="https://www.github.com/octoelli"><img src="https://komarev.com/ghpvc/?username=octoelli&style=for-the-badge&color=161c1c&label=👁+PROFILE+VIEWS" alt="Rodrigo Luís Coelli github profile views" /></a>
 <a href="https://www.linux.org"><img src="https://img.shields.io/badge/OS-Linux-e06c75?style=for-the-badge&logoColor=00c6ff&logo=linux&color=161c1c" /></a>
@@ -60,9 +60,9 @@ Rodrigo Luís Coelli, Nascido e criado no interior do Rio Grande do Sul. Entre D
 
 Códigos a estudar, ideias para gerar, palavras no caderno e olhos na vida. Sempre com uma dose de Filosofia e política.
 </span></p>
-
+<a href="https://bio.link/coelli/">
 <p><img src="https://2.gravatar.com/userimage/253563359/4ec2ee0477e4d708bb8532beff9f3cae?size=300" /></p>
-
+</a>
 <p class="description"><span style="color:#000000;">
 
 Apresento prazer, amo o conhecimento, vivo sobre o amor, construo histórias e compartilho existência para quem vive. Apresento prazer para quem lê, informação para quem procura, amor para quem senti a história e medo para quem vive.
